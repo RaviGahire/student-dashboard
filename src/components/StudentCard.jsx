@@ -6,9 +6,7 @@ export const StudentCard = (props) => {
         <div className="p-4 grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-2 gap-6 max-w-[1550px] mx-auto">
 
             {props.student.map((val, index) => (
-                <div key={index}
-
-                    className="p-2 flex gap-2 items-center flex-col sm:flex-row border rounded-lg shadow-lg hover:shadow-2xl transition-shadow duration-300"
+                <div key={index} className="p-2 flex gap-2 items-center flex-col sm:flex-row border rounded-lg shadow-lg hover:shadow-2xl transition-shadow duration-300"
                 >
                     <img
                         src={val.img}
