@@ -1,10 +1,12 @@
 import React from 'react'
+import { Navbar } from './Navbar'
 
 export const Header = () => {
   return (
 <>
-<header>
-    <h1>Welcome to Student Dashboard</h1>
+<header >
+  
+    <Navbar/>
 </header>
 
 
