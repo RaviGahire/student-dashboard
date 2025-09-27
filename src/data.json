@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Aarav Mehta",
+        "rollNo": "101",
+        "course": "ReactJS",
+        "batch": "10-12 AM",
+        "img" : "https://media.gettyimages.com/id/1171004789/photo/smiling-male-student-with-exam-papers-at-desk.jpg?s=612x612&w=0&k=20&c=Wh9d7BDwp2j3QWvr3K9U7BsuRsqc-TlPBO9NG0bEp_Y="
+    },
+    {
+        "name": "Riya Sharma",
+        "rollNo": "102",
+        "course": "NodeJS",
+        "batch": "12-3 PM",
+        "img": "https://media.gettyimages.com/id/1017973372/photo/student-university-on-the-move.jpg?s=612x612&w=0&k=20&c=brT6ySRP1dk38jw5mw6vkBfLi1UcMkjX2cYvRYEZAAU="
+
+    },
+    {
+        "name": "Rohit Patil",
+        "rollNo": "103",
+        "course": "Bootstrap",
+        "batch": "2:30-4:30 PM",
+        "img":"https://media.gettyimages.com/id/503658176/photo/university-student.jpg?s=612x612&w=0&k=20&c=sWPfXNRbGU9vOY06C21-RcndonuJmOz8YhXV7Go5T_o="
+    },
+    {
+        "name": "Neha Kulkarni",
+        "rollNo": "104",
+        "course": "JavaScript",
+        "batch": "5-6 PM",
+        "img":"https://media.gettyimages.com/id/1468830962/photo/attractive-young-female-university-student-using-a-laptop-while-studying.jpg?s=612x612&w=0&k=20&c=83aQUi8FwXMN1kqjfuM7oqZkckX05SebsBtemAn1kfc="
+    }
+]
